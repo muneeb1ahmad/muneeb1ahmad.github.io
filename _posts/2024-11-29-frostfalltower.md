@@ -7,7 +7,7 @@ categories:
 - website
 ---
 
-Team Members: Nate (Mechanical Engineering), Muneeb (Computer Science & Engineering), Tristan (Material Science & Engineering), Richard (Electrical Engineering), Kevin (Civil Engineering)
+***Team Members:*** Nate (Mechanical Engineering), Muneeb (Computer Science & Engineering), Tristan (Material Science & Engineering), Richard (Electrical Engineering), Kevin (Civil Engineering)
 
 For the course ENGR 1000 (Introduction to Enginners), Students were tasked to curate a ride, for an imaginery ammusement park. 
 
