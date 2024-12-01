@@ -15,7 +15,7 @@ The attraction is based upon the 'Tower of Terror', which is a drop-ride mechani
 
 // TODO: ADD SKETCHES OF THE RIDE.
 
-# Data and Statistics
+## Data and Statistics
 
 // TODO: IMPLEMENT DATA TABLE OR SCATTERPLOT, PERHAPS ON THE RUN-TIME OF THE MECHANISM.
 
