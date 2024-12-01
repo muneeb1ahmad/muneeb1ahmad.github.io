@@ -10,22 +10,18 @@ For the course ENGR 1000 (Introduction to Enginners), Students were tasked to cu
 
 Our Team, Also known as Absolute Bricks created ‘Brick land’ and the ‘Frost Fall Tower’ this was a spin on Lego Land.
 
-## Team Members
+## Meet the Team 
 
  - Nate (Mechanical Engineering)
+  
  - Muneeb (Computer Science and Engineering)
+   
  - Tristan (Material Science and Engineering)
+  
  - Richard (Electrical Engineering)
+   
  - Kevin (Civil Engineering)
 
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
 
 ## Installation (jekyll-remote-theme method)
 
