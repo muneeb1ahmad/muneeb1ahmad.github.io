@@ -4,22 +4,17 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Introduction
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+For the course ENGR 1000 (Introduction to Enginners), Students were tasked to curate a ride, for an imaginery ammusement park.
 
-## Features
+## Team Members
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - Nate (Mechanical Engineering)
+ - Muneeb (Computer Science and Engineering)
+ - Tristan (Material Science and Engineering)
+ - Richard (Electrical Engineering)
+ - Kevin (Civil Engineering)
 
 ## Based on
 
