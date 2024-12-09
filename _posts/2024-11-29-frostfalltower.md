@@ -28,8 +28,9 @@ The Sketch of the Mechanism contains the components to curate frost-fall tower, 
 
 ## Drop Mechanism
 
+![Mechanism](/assets/IMG_7842%202.JPG)
 
-
+The First Drop Mecanism did not have enough torque, therfore we have solved it using a different type of transmision for the cluth enabling it to go up and down much faster from before.
 
 ## Animatronic
 
