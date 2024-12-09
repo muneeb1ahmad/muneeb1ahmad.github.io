@@ -9,10 +9,11 @@ categories: media
 ---
 
 
-![Tower](/assets/IMG_2191.JPEG))
+![Tower](/assets/IMG_2191.JPEG)
 
 
 The attraction is based upon the 'Tower of Terror', which is a drop-ride mechanism. Our attraction 'Frostfall Tower' is built onto a baseplate which is glued on proprietary cardboard. 
+
 
 
 
@@ -20,11 +21,17 @@ The attraction is based upon the 'Tower of Terror', which is a drop-ride mechani
 
 // TODO: ADD SKETCHES OF THE RIDE.
 
-## Data and Statistics
+## Drop Mechanism
 
 // TODO: IMPLEMENT DATA TABLE OR SCATTERPLOT, PERHAPS ON THE RUN-TIME OF THE MECHANISM.
 
 
-## The Drop Mechanism
+## Animatronic
 
-// TODO: ADD PHOTO AND DESCRIPTION OF THE MECHANISM.
+
+![Animatronic](/assets/santa_pictures.jpg)
+
+
+Amusement Parks are not completed with fun, or animatronics. For Brick-land our team curated something unique, a presence or omage to the Holiday Tradition.
+
+Introducing Atnas, a character who is filled with Optomism and Joy. The naming behind the character is quite humorous, the word 'Santa' spelled backwards, thus it is Atnas.
