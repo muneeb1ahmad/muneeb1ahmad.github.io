@@ -9,7 +9,7 @@ categories: media
 ---
 
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Tower](/assets/IMG_2191.JPEG))
 
 
 The attraction is based upon the 'Tower of Terror', which is a drop-ride mechanism. Our attraction 'Frostfall Tower' is built onto a baseplate which is glued on proprietary cardboard. 
